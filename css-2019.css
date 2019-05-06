@@ -13,6 +13,6 @@ a:active{
 	color:blue;
 }
 
-a:focus{
-	color:blue;
+a:visited{
+	color:green;
 }
