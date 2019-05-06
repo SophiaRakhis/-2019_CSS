@@ -1,4 +1,4 @@
-a {
+/*a {
 	color:red;
 }
 
@@ -15,4 +15,15 @@ a:active{
 
 a:visited{
 	color:green;
+} Exercice 01  */
+
+.p-block {
+	background-color: yellow;
+	color:red;
+	padding: 0.5rem
+}
+
+.adj{
+	border:double #32a1ce;
+	padding: 0.5rem
 }
